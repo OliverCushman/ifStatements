@@ -1,4 +1,4 @@
-public class HelloWorld
+public class ifStatements
 {
     
     int a = 5;
@@ -31,7 +31,7 @@ public class HelloWorld
 
     public static void main(String[] args)
     {        
-        HelloWorld hw = new HelloWorld();
-        hw.run();
+        ifStatements is = new ifStatements();
+        is.run();
     }
 }
